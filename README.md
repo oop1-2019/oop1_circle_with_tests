@@ -2,6 +2,14 @@
 
 This is a basic example of an assignment with unit tests.
 
+## Requirements
+
+For this project to be runnable in VSCode, you will need to install `maven` as a command line tool. This is very easy using **chocolatey**:
+
+```shell
+choco install maven
+```
+
 ## Starting
 
 Just clone the repo and open vscode. You should give it a few seconds to setup.
