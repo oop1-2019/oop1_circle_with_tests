@@ -27,3 +27,7 @@ Once finished you should get the results at the bottom left corner. Click the re
 You can click each test to a more detailed view of the error message.
 
 If all tests pass, then your application should work as expected.
+
+## Creating projects like this
+
+This project was created with VSCode and the Java plugins (including Maven for Java). Next the `Generate from Maven archetype` command was used and the archetype `archetype-quickstart-jdk8`.
